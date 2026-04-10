@@ -2,15 +2,15 @@
 
 Hi, I am learning SQL step-by-step and documenting my progress here.
 
-##Topics Covered
+## Topics Covered
 DAY1: Basics (SELECT, WHERE, Conditions)
 
-##Goal:
+## Goal:
 To switch into better role with SQL + Python Skills.
 
-##Tools
+## Tools
 -SQL
 -GitHub
 
-##Progress
+## Progress
 -Day 1 Completed
